@@ -29,7 +29,7 @@ Built with **Streamlit** + **Groq API (LLaMA 3)** — completely free to use.
 
 ## 🖥️ Live Demo
 
-👉 [Click here to open the app](https://your-app-link.streamlit.app)
+👉 [Click here to open the app](https://customer-message-analyzer.streamlit.app/)
 
 > Enter your free Groq API key in the sidebar and start analyzing messages instantly.
 
