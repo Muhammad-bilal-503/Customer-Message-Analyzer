@@ -1,4 +1,4 @@
-# 🎯 Customer Message Analyzer
+#  Customer Message Analyzer
 
 An AI-powered customer support tool that automatically **classifies** customer messages, detects their **sentiment**, and generates a professional **auto-reply** — all in seconds.
 
@@ -6,9 +6,9 @@ Built with **Streamlit** + **Groq API (LLaMA 3)** — completely free to use.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🏷️ **Message Classification** — Automatically categorizes messages into:
+-  **Message Classification** — Automatically categorizes messages into:
   - Complaint
   - Refund / Return
   - Sales Inquiry
@@ -17,11 +17,11 @@ Built with **Streamlit** + **Groq API (LLaMA 3)** — completely free to use.
   - General Query
   - Spam
 
-- 😊 **Sentiment Detection** — Identifies if the message is Positive, Neutral, or Negative
+-  **Sentiment Detection** — Identifies if the message is Positive, Neutral, or Negative
 
-- 💬 **Auto-Reply Generation** — Generates a short, professional reply suited to the message
+-  **Auto-Reply Generation** — Generates a short, professional reply suited to the message
 
-- 📋 **Recent History** — Keeps track of the last 5 analyzed messages in your session
+-  **Recent History** — Keeps track of the last 5 analyzed messages in your session
 
 - ⚡ **Fast & Free** — Powered by Groq's free API (no credit card needed)
 
