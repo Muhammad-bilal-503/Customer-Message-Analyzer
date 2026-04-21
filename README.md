@@ -27,7 +27,7 @@ Built with **Streamlit** + **Groq API (LLaMA 3)** — completely free to use.
 
 ---
 
-## 🖥️ Live Demo
+##  Live Demo
 
 👉 [Click here to open the app](https://customer-message-analyzer.streamlit.app/)
 
@@ -35,7 +35,7 @@ Built with **Streamlit** + **Groq API (LLaMA 3)** — completely free to use.
 
 ---
 
-## 🚀 Run Locally (On Your Own Laptop)
+##  Run Locally (On Your Own Laptop)
 
 ### Prerequisites
 - Python 3.8 or higher installed
@@ -84,7 +84,7 @@ The app will open automatically in your browser at `http://localhost:8501`
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 customer-analyzer/
