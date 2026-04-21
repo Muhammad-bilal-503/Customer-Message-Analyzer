@@ -96,7 +96,7 @@ customer-analyzer/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -115,6 +115,6 @@ Each user uses their own free key — completely safe. 🔒
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and free to use.
