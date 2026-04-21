@@ -107,7 +107,7 @@ customer-analyzer/
 
 ---
 
-## ⚠️ Important Note on API Key
+##  Important Note on API Key
 
 Your Groq API key is entered **directly in the app sidebar** at runtime.  
 It is **never stored** in the code or uploaded to GitHub.  
